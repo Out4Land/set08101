@@ -1,0 +1,1 @@
+look at the documentation on moodle, the files that we are creating are located in "C:\Users\Angus\OneDrive - Edinburgh Napier University\University\year 2\SET08101 2018-9 TR2 001 - Web Technologies\set08101\apps\nginx-1.13.8\nginx-1.13.8\html"
